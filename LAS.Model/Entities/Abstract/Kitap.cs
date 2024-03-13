@@ -8,7 +8,7 @@ using System.Xml.Linq;
 
 namespace LAS.Model.Entities.Abstract
 {
-    public abstract class Kitap : BaseEntity
+    public abstract class Kitap 
     {
         public int ISBN { get; set; }
         public string Baslik { get; set; }
