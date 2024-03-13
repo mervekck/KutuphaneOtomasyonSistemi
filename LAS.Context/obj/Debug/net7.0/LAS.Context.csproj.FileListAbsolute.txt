@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\bin\Debug\net7.0\LAS.Context.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\bin\Debug\net7.0\LAS.Context.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\bin\Debug\net7.0\LAS.Context.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\refint\LAS.Context.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\ref\LAS.Context.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\bin\Debug\net7.0\LAS.Context.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\bin\Debug\net7.0\LAS.Model.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\bin\Debug\net7.0\LAS.Model.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Context\obj\Debug\net7.0\LAS.Context.genruntimeconfig.cache

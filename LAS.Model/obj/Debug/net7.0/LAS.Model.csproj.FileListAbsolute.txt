@@ -1,0 +1,11 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\bin\Debug\net7.0\LAS.Model.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\bin\Debug\net7.0\LAS.Model.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\bin\Debug\net7.0\LAS.Model.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\LAS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\LAS.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\LAS.Model.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\LAS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\LAS.Model.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\refint\LAS.Model.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\LAS.Model.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\.Net Eğitimi\Projeler\Library_Automation_System\LAS.Model\obj\Debug\net7.0\ref\LAS.Model.dll
