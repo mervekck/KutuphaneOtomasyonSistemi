@@ -36,7 +36,7 @@ namespace LAS.Model.Entities.Concrete
                 Console.WriteLine($"{kitap.Baslik} kitabı mevcut olmadığı için mevcut olduğu zaman deneyiniz.");
             }
         }
-        public void KitapİadeEdilebilir(Abstract.Kitap kitap)
+        public void KitapIadeEdilebilir(Abstract.Kitap kitap)
         {
             if (OduncAlinanKitaplar.Contains(kitap))
             {
