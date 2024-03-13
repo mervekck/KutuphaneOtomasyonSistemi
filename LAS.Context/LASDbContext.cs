@@ -18,7 +18,7 @@ namespace LAS.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("server=LAPTOP-JS8IS6GT\\SQLEXPRESS;database=KutuphaneDB;uid=sa;pwd=668797Mk;trustservercertificate=true");
+                optionsBuilder.UseSqlServer("server=.;database=KutuphaneDB;uid=sa;pwd=123;trustservercertificate=true");
             }
         }
     }
