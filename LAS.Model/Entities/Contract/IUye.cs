@@ -14,6 +14,6 @@ namespace LAS.Model.Entities.Contract
         public int UyeNumarasi { get; set; }
         public List<Kitap> OduncAlinanKitaplar { get; set; }
         void KitapOduncAlabilirMi(Kitap kitap);
-        void KitapIadeEdilebilir(Kitap kitap);
+        void KitapIadeEdilebilirMi(Kitap kitap);
     }
 }

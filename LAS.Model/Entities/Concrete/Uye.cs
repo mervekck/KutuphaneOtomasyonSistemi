@@ -23,6 +23,7 @@ namespace LAS.Model.Entities.Concrete
             UyeNumarasi = uyeNumarasi;
             OduncAlinanKitaplar = new List<Abstract.Kitap>();
         }
+
         public void KitapOduncAlabilirMi(Abstract.Kitap kitap) 
         { 
             if (kitap.Durum == Durum.Mevcut)
@@ -36,7 +37,7 @@ namespace LAS.Model.Entities.Concrete
                 Console.WriteLine($"{kitap.Baslik} kitabı mevcut olmadığı için mevcut olduğu zaman deneyiniz.");
             }
         }
-        public void KitapIadeEdilebilir(Abstract.Kitap kitap)
+        public void KitapIadeEdilebilirMi(Abstract.Kitap kitap)
         {
             if (OduncAlinanKitaplar.Contains(kitap))
             {
